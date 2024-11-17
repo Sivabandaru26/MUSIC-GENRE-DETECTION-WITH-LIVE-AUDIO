@@ -18,8 +18,8 @@ This project presents a study on “Music Genre Detection with Live Audio”, fo
 5) Results : Model has achieved a 94% testing accuarcy and 93% Precision rate 
 
 # Applications
-categoraization music in podcasts
-creating dynamic libraries based on users preferences
+1) Categoraization music in podcasts
+2) Creating dynamic libraries based on users preferences
 
 # Dataset
 [link](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
