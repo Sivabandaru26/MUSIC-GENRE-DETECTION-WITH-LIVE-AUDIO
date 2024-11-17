@@ -10,7 +10,7 @@ This Project bridges the gap between traditional audio processing and real-time 
 # Project Overview
 This project presents a study on “Music Genre Detection with Live Audio”, focusing on system architecture, implementation, and performance analysis. The proposed system automates the feature extraction and also leverages the prediction function. Various model architectures and hyperparameter tuning techniques were explored to develop a system aimed at improving accuracy and efficiency over traditional methods, making it to work in dynamic environments.
 
-# Feactures
+# Features
 1) Data Preprocessing : Features of the audio are normalized with the MinMaxScaler function, now every feature value lies between 0 and 1.
 2) Dataset Spliting : Training set uses 70% of data, Validation set uses 20% of data and Testing set uses 10% of data.
 3) Model Building and Training : Bidirectional LSTMs with attention mechanism 
